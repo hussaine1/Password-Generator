@@ -2,7 +2,7 @@
 A password generator made in python using the tkinter module.
 This program has a graphical user interface.
 There are afew options you can edit when generating a password:
-- password length, program randomly choses size of password in a given range
+- password length, program randomly choses size of password in a range given by the user
 - include a capital letter
 - include a number 
 - include a special character
