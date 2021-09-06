@@ -8,4 +8,4 @@ There are afew options you can edit when generating a password:
 - include a special character
 
 Note (for current version): 
-The the minimum size of the password must be larger than 4. Also, if capital letter, number or special character is selected then the generated password will only include one of selected option. 
+The the minimum size of the password must be 4 or larger. Also, if capital letter, number or special character is selected then the generated password will only include one of selected option. 
