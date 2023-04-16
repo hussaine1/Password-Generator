@@ -1,4 +1,4 @@
-# password_generator
+# Password Generator
 A password generator made in python using the tkinter module.
 This program has a graphical user interface.
 There are afew options you can edit when generating a password:
